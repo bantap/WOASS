@@ -2,7 +2,9 @@
 ## Work Order Application for Sports Shops
 ### An 18 Week project in ASP.NET MVC Core for MSSA
 
-|--- David Chui ---|--- Jan 19 2021 ---|
+David Chui | Jan 19 2021
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Work Order Application for Sport Shops (WOASS)
 
