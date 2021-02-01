@@ -32,3 +32,7 @@ I envision an application that organizes, sorts, and stores various different wo
 ##### Customer Accounts
 
 	Customers have access to accounts which can view and draft work orders. Draft work orders have to be approved by a technician before being tasked to work. This allows the customer to preview the price and expedite their service at the shop. Customers of the shop can create their own accounts.
+	
+---
+
+[Database Diagram](https://github.com/farawayfound/WOASS/blob/main/WOASS%20Entity%20Relationship%20Diagram.pdf)
