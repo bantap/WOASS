@@ -35,4 +35,4 @@ I envision an application that organizes, sorts, and stores various different wo
 	
 ---
 
-[Database Diagram](https://github.com/farawayfound/WOASS/blob/main/WOASS%20Entity%20Relationship%20Diagram.pdf)
+[Database Diagram](WOASS%20Entity%20Relationship%20Diagram%20(2).pdf)
